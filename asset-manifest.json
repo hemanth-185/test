@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.a2682f24.js",
+    "static/js/787.6d0fd6d5.chunk.js": "/static/js/787.6d0fd6d5.chunk.js",
+    "static/media/loc.png": "/static/media/loc.faccd36fd30782dd6d57.png",
+    "static/media/courses.jpg": "/static/media/courses.081e595316ba563de3ee.jpg",
+    "static/media/iitd.webp": "/static/media/iitd.9d409884930b4d8fe6f1.webp",
+    "static/media/insImg.png": "/static/media/insImg.39aa3f8817633249f35f.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.a2682f24.js.map": "/static/js/main.a2682f24.js.map",
+    "787.6d0fd6d5.chunk.js.map": "/static/js/787.6d0fd6d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a2682f24.js"
+  ]
+}
